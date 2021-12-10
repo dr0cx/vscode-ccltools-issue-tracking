@@ -1,6 +1,6 @@
 # vscode-ccltools-issue-tracking
 
-CCLTOOLS is a priavet repo, issue tracking and feature requests will be handled here. 
+CCLTOOLS is a private repo, issue tracking and feature requests will be handled here. 
 
 # CCL Tools extension for Visual Studio Code
 
