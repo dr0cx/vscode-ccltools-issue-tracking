@@ -1,5 +1,17 @@
 # CCL for Visual Studio Code Change Log
 
+## Version 0.0.9: December 16, 2021
+- syntaxes/ccl.tmLanguage:
+  - correct syntax highlighting for 'outerjoin'
+- README.md
+  - set links to public https://github.com/dr0cx/vscode-ccltools-issue-tracking repo
+
+## Version 0.0.8: December 16, 2021
+- syntaxes/ccl.tmLanguage:
+  - correct syntax highlighting for 'go to'
+- README.md
+  - set links to public https://github.com/dr0cx/vscode-ccltools-issue-tracking repo
+
 ## Version 0.0.7: December 08, 2021
 - syntaxes/ccl.tmLanguage:
   - change keyword_selection to "keyword.control.ccl"
