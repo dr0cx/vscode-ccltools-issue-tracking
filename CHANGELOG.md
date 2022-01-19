@@ -1,6 +1,6 @@
 # CCL for Visual Studio Code Change Log
 
-## Version 0.0.9: December 16, 2021
+## Version 0.0.9: January 19, 2022
 - syntaxes/ccl.tmLanguage:
   - correct syntax highlighting for 'outerjoin'
 - README.md
